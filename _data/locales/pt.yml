@@ -1,9 +1,16 @@
+
+docs
+
 pt:
-  locale_name: "Português"
+  locale_na
+me: "Português
+
+li"
   nav:
     about: Sobre
     contribute: Contribua
   index:
+
     lead: "Software open source é feito por pessoas assim como você. Aprenda como iniciar e expandir o seu projeto."
     opensourcefriday: "É Sexta-feira! Invista algumas horas contribuindo para o software que você usa e ama"
   article:
